@@ -1,0 +1,1 @@
+This repository contains examples of uncommon CSS bugs and their solutions.  The `bug.css` file demonstrates the error, while `bugSolution.css` provides the corrected code.  These examples highlight issues beyond simple syntax errors, focusing on scenarios that can be more difficult to debug.
